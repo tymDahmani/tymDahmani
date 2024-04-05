@@ -1,6 +1,6 @@
-### Yo 👾
+## Yo 👾
 
-# I am Tayma ( second name: Montaha )
+### I am Tayma ( second name: Montaha )
 * 16 y/o | she/her
 
 - 🔭 interests: quantum computing (especially programming and algorithms) | robotics | programming | management and leading
