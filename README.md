@@ -6,4 +6,4 @@
 - 🔭 interests: quantum computing (especially programming and algorithms) | robotics | programming | management and leading
 - ⚽ hobbies: drawing/sketching | listening to music | writing
 - 💼 general experiences: organizing servers (discord) | organizing online events | project planning | leading
-- ⚡ technical/software experiences: java programming lang | python | github (50%) | android studio (60%) | VSCode
+- ⚡ technical/software experiences: java programming lang | python | github (50%) | android studio (60%) | VSCode | discord management
