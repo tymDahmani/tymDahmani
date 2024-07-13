@@ -3,7 +3,7 @@
 #### I am Tayma ( second name: Montaha )
 * 16 y/o | she/her
 
-- 🔍 currently learning: (rust)[https://www.rust-lang.org/]
+- 🔍 currently learning: [rust](https://www.rust-lang.org/)
   
 - 🔧 skills upgrade: java programming language.
 
