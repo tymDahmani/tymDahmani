@@ -5,7 +5,7 @@
 
 - 🔍 currently learning: [rust](https://www.rust-lang.org/)
   
-- 🔧 skills upgrade: java programming language.
+- 🔧 skills upgrade: java
 
 - 🔭 interests: programming | robotics | maths (algebra - linear algebra) | physics | management and leading | quantum computing (especially programming, algorithms, and mechanics)
 
