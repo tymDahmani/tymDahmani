@@ -4,6 +4,10 @@
 * 16 y/o | she/her
 
 - 🔍 currently learning: [rust](https://www.rust-lang.org/)
+- 👩🏻‍💻 current projects:
+    -  [kng](https://github.com/tymDahmani/kng) - kitty name generator
+    -  [java-calc](https://github.com/tymDahmani/java-calc)
+    -  [wordsASorter]() - words alphabet sorter (no repo yet)
   
 - 🔧 skills upgrade: java
 
