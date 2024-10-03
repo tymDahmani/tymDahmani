@@ -7,7 +7,7 @@
 - 👩🏻‍💻 current projects:
     -  [kng](https://github.com/tymDahmani/kng) - kitty name generator
     -  [java-calc](https://github.com/tymDahmani/java-calc)
-    -  [wordsASorter]() - words alphabet sorter (no repo yet)
+    -  [word-lol-sorter](https://github.com/tymDahmani/word-lol-sorter)
   
 - 🔧 skills upgrade: java
 
