@@ -11,11 +11,11 @@
   
 - 🔧 skills upgrade: java
 
-- 🔭 interests: programming | robotics | maths (algebra - linear algebra) | physics | management and leading | quantum computing (especially programming, algorithms, and mechanics)
+- 🔭 interests: programming | robotics | maths (algebra - linear algebra, trigonometry) | physics | management and leading | quantum computing (especially programming and algorithms)
 
 - 💻 programming langs: java | rust (still being learned) | python (basic lvl)
 
-- ⚽ hobbies: drawing/sketching | listening to music | prose writing | journaling | playing 'free fire'
+- ⚽ hobbies: drawing/sketching | listening to music | prose writing | journaling | playing 'free fire' lol
 
 - 💼 general experiences: organizing servers (discord) | organizing online events | project planning | leading
 
