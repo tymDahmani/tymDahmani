@@ -1,7 +1,7 @@
 ## Yo 👾
 
 #### I am Tayma ( second name: Montaha )
-* 16 y/o | she/her
+* 17 y/o | she/her
 
 - 🔍 currently learning: [rust](https://www.rust-lang.org/)
 - 👩🏻‍💻 current projects:
