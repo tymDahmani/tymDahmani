@@ -4,15 +4,17 @@
 * 17 y/o | she/her
 
 - 🔍 currently learning: [rust](https://www.rust-lang.org/)
-- 👩🏻‍💻 current projects:
+ 
+- 🔧 skills upgrade: java
+
+
+- 👩🏻‍💻 -----> current projects:
     -  [java-calc](https://github.com/tymDahmani/java-calc)
    
-- successful projects:
+- 💯 -------> successful projects:
     - [kng](https://github.com/tymDahmani/kng) - kitty name generator
     - [word-lol-sorter](https://github.com/tymDahmani/word-lol-sorter) - word sorter
     - [guessing-game](https://github.com/tymDahmani/guessing-game) - number guessing game
-  
-- 🔧 skills upgrade: java
 
 - 🔭 interests: programming | robotics | maths (algebra - linear algebra, trigonometry) | physics | management and leading | quantum computing (especially programming and algorithms)
 
