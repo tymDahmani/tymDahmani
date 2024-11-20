@@ -20,7 +20,7 @@
 
 - 💻 programming langs: java | rust (still being learned) | python (basic lvl)
 
-- ⚽ hobbies: drawing/sketching | listening to music | prose writing | journaling | playing 'free fire' lol
+- ⚽ hobbies: drawing/sketching | listening to music | reading novels | prose writing | journaling | playing 'free fire' lol
 
 - 💼 general experiences: organizing servers (discord) | organizing online events | project planning | leading
 
