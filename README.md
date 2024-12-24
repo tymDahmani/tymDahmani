@@ -16,7 +16,7 @@
     - [word-lol-sorter](https://github.com/tymDahmani/word-lol-sorter) - word sorter
     - [guessing-game](https://github.com/tymDahmani/guessing-game) - number guessing game
 
-- 🔭 interests: programming | robotics | maths (algebra - linear algebra, trigonometry) | physics | management and leading | quantum computing (especially programming and algorithms)
+- 🔭 interests: programming | robotics | chemistry (organic) | maths (algebra - linear algebra, trigonometry) | biology | management and leading | quantum computing (especially programming and algorithms)
 
 - 💻 programming langs: java | rust (still being learned) | python (basic lvl)
 
